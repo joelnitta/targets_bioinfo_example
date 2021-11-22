@@ -33,4 +33,4 @@ At the end, you should see `R1_trim.fq`, `R2_trim.fq`, and `trim_report.html` in
 
 ---
 
-For more information, [see this blogpost]().
+For more information, [see this blogpost](https://www.joelnitta.com/posts/2021-11-16_r-bioinfo-flow/).
