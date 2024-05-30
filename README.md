@@ -19,7 +19,7 @@ conda env create -f environment.yml
 2. Install all required R packages:
 
 ```
-conda activate renv
+conda activate bioinfo-example-env
 Rscript -e 'renv::restore()'
 ```
 
